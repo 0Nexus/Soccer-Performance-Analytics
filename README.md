@@ -151,70 +151,6 @@ Both saved as high-resolution PNG files for presentations.
 
 ---
 
-## 🚀 For Football Clubs
-
-### Immediate Applications
-
-**1. Performance Review**
-```
-□ Compare your team stats to league benchmarks
-□ Identify metrics 10%+ below top teams
-□ Prioritize 2-3 areas for immediate improvement
-```
-
-**2. Tactical Adjustments**
-```
-□ Assess current playing style effectiveness
-□ Identify tactical patterns in successful teams
-□ Implement data-driven tactical changes
-```
-
-**3. Recruitment**
-```
-□ Define target player profiles
-□ Assess potential signings against benchmarks
-□ Identify undervalued players
-```
-
-**4. Opposition Analysis**
-```
-□ Identify opponent strengths and weaknesses
-□ Prepare tactical game plans
-□ Exploit statistical advantages
-```
-
----
-
-## 💼 Skills Demonstrated
-
-### For Hiring Managers
-
-**Sports Analytics**:
-- Performance metrics analysis
-- Tactical pattern recognition
-- Player profiling
-- Competitive benchmarking
-
-**Data Science**:
-- Statistical correlation analysis
-- Trend identification
-- Data visualization
-- Insight generation
-
-**Domain Knowledge**:
-- Modern football tactics
-- Performance indicators
-- Recruitment analytics
-- Coaching applications
-
-**Communication**:
-- Executive reporting
-- Visual storytelling
-- Actionable recommendations
-- Stakeholder engagement
-
----
-
 ## 📊 Technical Stack
 
 - **Language**: Python 3.8+
@@ -225,21 +161,6 @@ Both saved as high-resolution PNG files for presentations.
 
 ---
 
-## 🎓 What Makes This Different
-
-### vs Academic Projects
-✅ **Real-world applicable** - Clubs could use this methodology today
-✅ **Actionable insights** - Not just numbers, but recommendations
-✅ **Business context** - Tied to recruitment and tactics
-✅ **Professional presentation** - Club-ready visualizations
-
-### vs Other Sports Analytics
-✅ **Soccer-specific** - Deep understanding of the sport
-✅ **Holistic analysis** - Attack, defense, and possession
-✅ **Tactical awareness** - Playing style analysis
-✅ **Benchmarking focus** - Comparative analytics
-
----
 
 ## 🎯 Key Insights for Teams
 
@@ -329,28 +250,6 @@ Brentford's successful model includes:
 - Player undervaluation identification
 - Data-driven recruitment
 - These techniques are showcased here
-
----
-
-## 📞 For Recruiters
-
-### What This Project Proves
-
-**I Can**:
-- Analyze complex sports data
-- Generate actionable insights
-- Communicate findings clearly
-- Understand football tactically
-- Build production-ready systems
-- Think like a sports analyst
-
-**I Understand**:
-- Modern football analytics
-- Club needs and priorities
-- Coaching and recruitment
-- Performance optimization
-- Competitive intelligence
-- Data-driven culture
 
 ---
 
